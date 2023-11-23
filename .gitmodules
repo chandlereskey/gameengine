@@ -1,0 +1,3 @@
+[submodule "Cerealbox/vendor/spdlog"]
+	path = Cerealbox/vendor/spdlog
+	url = https://github.com/gabime/spdlog
